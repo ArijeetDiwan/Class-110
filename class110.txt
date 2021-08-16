@@ -1,0 +1,11 @@
+draw a destribution for a temperture in a room 
+draw random sample from the population to create a sampling
+find the population mean , standard deviation 
+find the sampling mean , standard devation 
+find the relation between the sampling mean and population mean 
+find the relation between sampling standard deviation and population standard deviation  
+output:
+population mean  3.933977711872023
+population standard deviation   0.350970118315556
+sampling mean 3.9332972
+sampling standard deviation  0.035254893272560886
